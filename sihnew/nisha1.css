@@ -1,0 +1,126 @@
+.he1{
+	position: fixed; /* Set the navbar to fixed position */
+  left:0;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  font-size:8px;
+  padding:0px;
+background-color:#d4d9de;
+text-align:center;
+color:#808080;
+	
+}
+.he2{
+	position: fixed; /* Set the navbar to fixed position */
+  left:0;
+  top: 40; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+background-color:blue;
+text-align:center;
+color:black;
+	
+}
+.topnav{
+
+  position: fixed; /* Set the navbar to fixed position */
+  left:0;
+  top: 120; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+background-color:  #b0d8ff;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color:slateblue;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+ .topnav a:hover {
+  background-color: #1e90ff;
+  color: black;
+}
+
+.s1 {
+ background-color: #6db7ff;
+  color: black;
+}
+.he3{
+	position: fixed; /* Set the navbar to fixed position */
+  left:0;
+  top: 150; /* Position the navbar at the top of the page */
+ 
+  width: 100%; /* Full width */
+   padding:0px;
+   font-size:9px;
+background-color:#f1f2f4;
+text-align:center;
+color:#c0c0c0;
+	
+}
+.bg {
+ background-color:#e6f3ff;
+animation-name: coloranimation;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-direction:alternate;
+}
+@keyframes coloranimation{
+from{background-color:#e6f3ff;}
+to{background-color:#e6e6e6;}
+}
+.section{
+	left:0;
+	margin-top:180px;
+	margin-bottom:145px;
+	width:100%;
+
+	
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 45;
+   width: 100%;
+   background-color: royalblue;
+  }
+  
+.footer a{
+	
+float: left;
+  color:turquoise;
+  display: block;
+text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.footer a:hover {
+  background-color:  #1f49c7;
+color:whitesmoke;
+
+}
+.div1{ position: fixed;
+   left: 0;
+   bottom:0;
+   width: 100%;
+	  color:#c5ccd3;
+	  font-size:12px;
+	 
+	  text-align:center;
+	  background-color:#708090;
+	  
+  }
+ .fe1{position: fixed;
+   left: 0;
+   bottom:70;
+   width: 100%;
+	  font-size:12px;
+	 
+	  text-align:center;
+	  background-color:#e2e6e9;}
+
