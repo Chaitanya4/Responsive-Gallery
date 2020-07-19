@@ -7,13 +7,13 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-  <script src="ologinvalidation.js"></script>
+  <script src="./../../js/ologinvalidation.js"></script>
 </head>
 <body>
 
 <div class="container">
   <h2>Owner Login</h2>
-  <form name="OLogin" action="/action_page.jsp" onsubmit="return validateologin()" method="get">
+  <form name="OLogin" onsubmit="return validateologin()" method="get">
     <div class="form-group">
       <label for="email">Email:</label>
       <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">

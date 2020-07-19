@@ -14,7 +14,7 @@ function validate()
    
     if (email.value == "")                                   
     { 
-        window.alert("Please enter a valid e-mail address."); 
+        window.alert("Please enter a e-mail address."); 
         email.focus(); 
         return false; 
     } 
