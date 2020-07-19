@@ -1,3 +1,4 @@
+// function to validate registration form
 function validation()
 {
 	var fname = document.forms["register"]["fname"];   

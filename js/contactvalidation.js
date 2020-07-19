@@ -1,3 +1,4 @@
+// validate contact form
 function validate()
 {
 	var name = document.forms["contactus"]["name"];               

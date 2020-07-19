@@ -1,24 +1,24 @@
 body{
-	background-color:azure;
+	background-color:#cfcceb;
 	}
 h1{
-	color:cornflowerblue;
+	color:rgb(131, 60, 197);
 	font-family:'Fredoka One', cursive;
 	font-size:50px;
 	letter-spacing:0.02em;
 }
 
 .thumbnail{
-	background-color:lightcyan;
-	color:lightskyblue;
+	background-color:rgb(201, 196, 218);
+	color:rgb(177, 116, 235);
 	font-family: 'PT Serif', serif;
 	letter-spacing:0.04em; 
 	font-size:15px;
 }
 
 .thumbnail:hover{
-	background-color:lightblue;
-	color:slateblue;
+	background-color:rgb(212, 173, 230);
+	color:rgb(78, 65, 161);
 	font-family: 'PT Serif', serif;
 	letter-spacing:0.04em; 
 	font-size:15px;

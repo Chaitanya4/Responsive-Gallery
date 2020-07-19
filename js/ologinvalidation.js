@@ -1,3 +1,4 @@
+// validate owner login
 function validateologin()
 {               
     var email = document.forms["OLogin"]["email"];    
